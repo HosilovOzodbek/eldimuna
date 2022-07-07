@@ -35,6 +35,7 @@ a {
 	position: relative;
 }
 
+
 .logo {
 	padding: 30px;
 }
@@ -42,7 +43,7 @@ a {
 .header-content {
 	max-height: 100px;
 	position: relative;
-	display: flex;
+	display: block;
 	justify-content: space-between;
 }
 
@@ -112,19 +113,19 @@ a {
 /*============================Slider-box section================================*/
 
 
-.flex {
-	display: flex;
-}
-.slider {
-	min-width: 0;
-}
+/*.flex {*/
+/*	display: flex;*/
+/*}*/
+/*.slider {*/
+/*	min-width: 0;*/
+/*}*/
 
-.slick-track{
-	display: flex;
-}
+/*.slick-track{*/
+/*	display: flex;*/
+/*}*/
 
 /*===============================Darkline section==================================*/
-
+#7d32a8
 
 
 
